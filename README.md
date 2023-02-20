@@ -6,8 +6,8 @@ Algoritm:
 - sort by type of item and then by count
 - compare the sum of the current and the next item
 
-    If sum = container_size, or its last item in list, or list item of this type, we push this to result array.
-    If sum < container_size, we add current and next, then push...
+    - If sum = container_size, or its last item in list, or list item of this type, we push this to result array.
+    - If sum < container_size, we add current and next, then push...
 
 # Input:
 
